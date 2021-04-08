@@ -64,3 +64,11 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+
+
+
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=joneslee111&show_icons=true&theme=tokyonight)](https://github.com/jonesle111/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneslee111&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/joneslee111/github-readme-stats)
+
