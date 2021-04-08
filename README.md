@@ -2,6 +2,12 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+I am an ambitious and driven Full Stack Junior Developer with a background in fast-paced and demanding roles that required accuracy and thorough communication. 
+
+Since January 2021, I have been studying at the highly intensive coding bootcamp, Makers Academy, where I have been able to develop my skills in software development through solo and group projects. Studying at Makers, has engrained in me, the importance of writing clean, readable and tested code.
+
+I am looking for a role where I can further strengthen my knowledge in programming in a supportive environment that promotes and follows the best coding practices.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
